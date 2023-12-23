@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_primary">#5c0000</color>
+    <color name="light_primary">#ff1c00</color>
+    <color name="status_at_company">#39cae4</color>
+    <color name="status_confirmed">#e49639</color>
+    <color name="status_delivered">#8bc919</color>
+    <color name="status_rejected">#af1100</color>
+    <color name="white">#ffffffff</color>
+    <color name="grey">#9699a2</color>
+    <color name="black">#ff000000</color>
+
+    <color name="background_light">#51515a</color>
+    <color name="background_dark">#14161a</color>
+
+    <color name="bottom_nav_color">#323238</color>
+
+</resources>

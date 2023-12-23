@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "398678321312",
+    "firebase_url": "https://saee-2c8fc-default-rtdb.firebaseio.com",
+    "project_id": "saee-2c8fc",
+    "storage_bucket": "saee-2c8fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398678321312:android:bed323b97482e39a8ac1c5",
+        "android_client_info": {
+          "package_name": "com.smartedge.saee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaRte97AlNTfD9VTEyKFql84WM82Kq-xU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
