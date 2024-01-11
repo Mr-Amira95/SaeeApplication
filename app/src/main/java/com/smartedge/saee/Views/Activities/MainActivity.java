@@ -120,6 +120,7 @@ public class MainActivity extends AppCompatActivity {
         this.home = (RoundedImageView) findViewById(R.id.home);
         this.scanIcon = (ImageView) findViewById(R.id.qr_icon);
         this.langIcon = (ImageView) findViewById(R.id.language_icon);
+
         FirebaseApp.initializeApp(this);
         FirebaseDatabase firebaseDatabase = FirebaseDatabase.getInstance();
         this.database = firebaseDatabase;

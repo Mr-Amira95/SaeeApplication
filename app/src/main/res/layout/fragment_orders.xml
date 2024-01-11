@@ -58,5 +58,6 @@
         android:layout_marginTop="@dimen/_10sdp"
         android:src="@drawable/no_data"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/filter" />
+        app:layout_constraintTop_toBottomOf="@+id/filter"
+        android:visibility="gone" />
 </androidx.constraintlayout.widget.ConstraintLayout>

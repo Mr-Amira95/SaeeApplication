@@ -72,7 +72,8 @@
         android:layout_margin="@dimen/_25sdp"
         android:src="@drawable/no_data"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/info_card" />
+        app:layout_constraintTop_toBottomOf="@+id/info_card"
+        android:visibility="gone"/>
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/change_status"
